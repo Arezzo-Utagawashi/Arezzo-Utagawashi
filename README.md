@@ -1,4 +1,12 @@
-## Hi there 👋
+# About me
+<p>Hey, I'm learing, or trying to learn code, things I like:<br>
+Art, tech, and laguages.</p>
+
+learning:<br>
+<em>Python</em>
+<em>Css</em>
+<strong>HTML</strong>
+
 
 <!--
 **Arezzo-Utagawashi/Arezzo-Utagawashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
