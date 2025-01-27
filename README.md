@@ -1,10 +1,10 @@
-# About me
+# <h1 align="center"> About me </h1>
 <p>Hey, I'm learing, or trying to learn code, things I like:<br>
 Art, tech, and laguages.</p>
 
 learning:<br>
-<em>Python</em>
-<em>Css</em>
+<em>Python</em><br>
+<em>Css</em><br>
 <strong>HTML</strong>
 
 
