@@ -5,7 +5,8 @@ Art, tech, and laguages.</p>
 learning:<br>
 <em>Python</em><br>
 <em>Css</em><br>
-<strong>HTML</strong>
+<strong>HTML</strong> *
+
 ⚡ Fun fact: I'm an Artist, and a light designer.
 
 
